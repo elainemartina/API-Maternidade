@@ -1,0 +1,152 @@
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\appsettings.json
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\MaternidadeAPI.exe
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\MaternidadeAPI.deps.json
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\MaternidadeAPI.runtimeconfig.json
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\MaternidadeAPI.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\MaternidadeAPI.pdb
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Humanizer.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.csproj.AssemblyReference.cache
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.AssemblyInfoInputs.cache
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.AssemblyInfo.cs
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.csproj.CoreCompileInputs.cache
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\staticwebassets\msbuild.MaternidadeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MaternidadeAPI.props
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MaternidadeAPI.props
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MaternidadeAPI.props
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\scopedcss\bundle\MaternidadeAPI.styles.css
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.csproj.CopyComplete
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\refint\MaternidadeAPI.dll
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.pdb
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.genruntimeconfig.cache
+D:\Helena\Documentos\API\Aula 03\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\ref\MaternidadeAPI.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\MaternidadeAPI.exe
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\MaternidadeAPI.deps.json
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\MaternidadeAPI.runtimeconfig.json
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\MaternidadeAPI.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\MaternidadeAPI.pdb
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.csproj.AssemblyReference.cache
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.AssemblyInfoInputs.cache
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.AssemblyInfo.cs
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.csproj.CoreCompileInputs.cache
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\staticwebassets\msbuild.MaternidadeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MaternidadeAPI.props
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MaternidadeAPI.props
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MaternidadeAPI.props
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\scopedcss\bundle\MaternidadeAPI.styles.css
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.csproj.CopyComplete
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\refint\MaternidadeAPI.dll
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.pdb
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\MaternidadeAPI.genruntimeconfig.cache
+C:\Users\elain\Downloads\MaternidadeAPI\MaternidadeAPI\obj\Debug\net7.0\ref\MaternidadeAPI.dll
